@@ -67,3 +67,22 @@
 - Nguồn cấp điện (Power Supply Unit - PSU)
 - Thiết bị ngoại vi
 
+# Biểu diễn thông tin và hệ thống số
+## Biểu diễn thông tin trong máy tính
+### Thông tin, dữ liệu trong thế giới thực được số hóa để có thể “nhập vào” và được xử lý bởi máy tính
+- Hình ảnh
+- Âm thanh
+- Chữ viết
+### Số nhị phân và vấn đề biểu diễn dữ liệu trong máy tính
+- Sử dụng 2 ký hiệu “0”, ”1” để biểu diễn với giá trị tương ứng là 0 và 1
+- Bit nhị phân
+### Đơn vị đo thông tin cơ bản
+#### Nhỏ nhất là Bit. Giá trị của một bit có thể là một trong 2 giá trị 0 hoặc 1
+#### Ngoài ra có các đơn vị lớn hơn:
+Đơn vị Ký hiệu Mô tả
+- Byte B = 8 Bit
+- KiloByte KB = 210 Byte = 1024 Byte
+- MegaByte MB = 210 KB = 1024 KB
+- GigaByte GB = 210 MB = 1024 MB
+- TeraByte TB = 210 GB = 1024 GB
+
