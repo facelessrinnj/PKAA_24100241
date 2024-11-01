@@ -39,7 +39,16 @@
 #### Siêu máy tính (Supercomputer)
 #### Máy tính lượng tử (Quantum Computer)
 ## Lịch sử phát triển của máy tính:
-### Máy tính được phát minh bởi: Joseph Marie Jacquard
+  - Jacques de Vaucanson (1709-1782)
+  - Joseph Marie Jacquard (1752-1834)
+  - Joseph Marie Jacquard (1752-1834)
+  - Konrad Zuse (1910 - 1995)
+### Các máy tính nổi tiếng: 
+  - Máy tính Difference Engine (1822)
+  - Máy tính Z3 (1941)
+  - Máy tính ENIAC (1945)
+  - Máy tính UNIVAC (1951)
+  - Máy tính IBM 7030 Stretch (1961)
 ##  Cách thế hệ máy tính
 ### Máy tính đã trải qua nhiều giai đoạn phát triển, được phân chia thành các thế hệ khác nhau. Dưới đây là tóm tắt về các thế hệ máy tính (mốc thời gian mang tính tương đối):
   - Thế hệ đầu tiên (1940-1955)
@@ -50,10 +59,11 @@
 ## Phần cứng máy tính 
 ### Phần cứng máy tính là các thành phần vật lý mà ta có thể chạm vào, bao gồm tất cả các thiết bị và linh kiện tạo nên một hệ thống máy tính.
 #### Một máy tính thường có những bộ phận gì?
-- 1. Bo mạch chủ (Motherboard)
-- 2. Bộ xử lý trung tâm (CPU)
-- 3. Bộ nhớ RAM
-- 4. Ổ cứng (Hard Drive / SSD)
-- 5. Card đồ họa (GPU)
-- 6. Nguồn cấp điện (Power Supply Unit - PSU)
-- 7. Thiết bị ngoại vi
+- Bo mạch chủ (Motherboard)
+- Bộ xử lý trung tâm (CPU)
+- Bộ nhớ RAM
+- Ổ cứng (Hard Drive / SSD)
+- Card đồ họa (GPU)
+- Nguồn cấp điện (Power Supply Unit - PSU)
+- Thiết bị ngoại vi
+
