@@ -24,7 +24,36 @@
 ### ❖ Phần mềm là các chương trình và ứng dụng chạy trên máy tính, được chia thành hai loại chính:
 #### ❖ Hệ điều hành (Operating System - OS): Là phần mềm cơ bản quản lý phần cứng và phần mềm khác, cung cấp giao diện cho người dùng. Ví dụ: Windows, macOS, Linux
 #### ❖ Phần mềm ứng dụng (Application Software): Là các chương trình phục vụ các nhu cầu cụ thể của người dùng, bao gồm:
-  ❖ Phần mềm văn phòng: Microsoft Office, Google Workspace.
-  ❖ Phần mềm thiết kế đồ họa: Adobe Photoshop, CorelDRAW.
-  ❖ Trình duyệt web: Google Chrome, Mozilla Firefox
-  ❖ Phần mềm lập trình: Visual Studio, PyCharm.
+  - Phần mềm văn phòng: Microsoft Office, Google Workspace.
+  - Phần mềm thiết kế đồ họa: Adobe Photoshop, CorelDRAW.
+  - Trình duyệt web: Google Chrome, Mozilla Firefox
+  - Phần mềm lập trình: Visual Studio, PyCharm.
+### Các loại máy tính:
+#### Máy tính cá nhân (PC):
+#### Máy tính để bàn (Desktop): Thường được sử dụng tại nhà hoặc văn phòng, có cấu hình mạnh và dễ nâng cấp.
+#### Máy tính xách tay (Laptop): Thiết kế nhỏ gọn, dễ dàng di chuyển. Thích hợp cho người dùng cần làm việc di động.
+#### Máy tính bảng (Tablet)
+#### Máy trạm (Workstation)
+#### Máy tính nhúng (Embedded Computer)
+#### Máy chủ (Server)
+#### Siêu máy tính (Supercomputer)
+#### Máy tính lượng tử (Quantum Computer)
+## Lịch sử phát triển của máy tính:
+### Máy tính được phát minh bởi: Joseph Marie Jacquard
+##  Cách thế hệ máy tính
+### Máy tính đã trải qua nhiều giai đoạn phát triển, được phân chia thành các thế hệ khác nhau. Dưới đây là tóm tắt về các thế hệ máy tính (mốc thời gian mang tính tương đối):
+  - Thế hệ đầu tiên (1940-1955)
+  - Thế hệ thứ hai (1956-1963)
+  - Thế hệ thứ ba (1964-1971)
+  - Thế hệ thứ tư (1971-hiện tại)
+  - Thế hệ thứ năm (hiện tại và tương lai)
+## Phần cứng máy tính 
+### Phần cứng máy tính là các thành phần vật lý mà ta có thể chạm vào, bao gồm tất cả các thiết bị và linh kiện tạo nên một hệ thống máy tính.
+#### Một máy tính thường có những bộ phận gì?
+- 1. Bo mạch chủ (Motherboard)
+- 2. Bộ xử lý trung tâm (CPU)
+- 3. Bộ nhớ RAM
+- 4. Ổ cứng (Hard Drive / SSD)
+- 5. Card đồ họa (GPU)
+- 6. Nguồn cấp điện (Power Supply Unit - PSU)
+- 7. Thiết bị ngoại vi
