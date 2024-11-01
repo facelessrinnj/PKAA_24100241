@@ -24,7 +24,7 @@
 ### ❖ Phần mềm là các chương trình và ứng dụng chạy trên máy tính, được chia thành hai loại chính:
 #### ❖ Hệ điều hành (Operating System - OS): Là phần mềm cơ bản quản lý phần cứng và phần mềm khác, cung cấp giao diện cho người dùng. Ví dụ: Windows, macOS, Linux
 #### ❖ Phần mềm ứng dụng (Application Software): Là các chương trình phục vụ các nhu cầu cụ thể của người dùng, bao gồm:
-  - ❖ Phần mềm văn phòng: Microsoft Office, Google Workspace.
-  - ❖ Phần mềm thiết kế đồ họa: Adobe Photoshop, CorelDRAW.
-  - ❖ Trình duyệt web: Google Chrome, Mozilla Firefox
-  - ❖ Phần mềm lập trình: Visual Studio, PyCharm.
+  ❖ Phần mềm văn phòng: Microsoft Office, Google Workspace.
+  ❖ Phần mềm thiết kế đồ họa: Adobe Photoshop, CorelDRAW.
+  ❖ Trình duyệt web: Google Chrome, Mozilla Firefox
+  ❖ Phần mềm lập trình: Visual Studio, PyCharm.
