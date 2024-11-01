@@ -86,3 +86,29 @@
 - GigaByte GB = 210 MB = 1024 MB
 - TeraByte TB = 210 GB = 1024 GB
 
+### Hệ thống số
+- Định nghĩa một số được biểu diễn như thế nào thông qua các ký hiệu
+- Một số có thể được biểu diễn trong các hệ thống số khác nhau
+### Hệ thống số theo (có) vị trí
+- Trong hệ thống số có vị trí, vị trí mà một ký hiệu chiếm trong số quyết định giá trị mà nó đại diện
+- Hệ thống số không theo (không có) vị trí
+- Giá trị không phụ thuộc vào vị trí của số
+- Ví dụ như số La mã (Roman): ký hiệu X giá trị là 10 hay IV giá trị là 4...
+
+### Số thập phân (cơ số 10)
+#### Sử dụng tập ký hiệu S = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} để biểu diễn số
+- Trong hệ thống số thập phân, một số sẽ được viết:
+- ± 𝑆𝐾−1 … S2S1S0. S−1S−2 … S−𝐿 10
+#### Số thực
+- Số thực: là số có phần thập phân
+
+### Chuyển đổi bất cứ cơ số nào sang hệ 10
+- Chúng ta nhân mỗi chữ số với giá trị vị trí của nó trong hệ thống nguồn và cộng các kết quả lại để thu được số trong hệ thập phân.
+
+### Chuyển từ cơ số 10 sang cơ số bất kỳ
+#### Chúng ta có thể chuyển đổi một số thập phân sang cơ số tương ứng bất kỳ.
+- Hai thủ tục: một cho phần nguyên và một cho phần thập phân.
+- Chuyển đổi phần nguyên: sử dụng phép chia lặp.
+- Chuyển đổi phần thập phân: sử dụng phép nhân lặp
+
+  
